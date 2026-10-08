@@ -1,20 +1,15 @@
 #IntelliJ IDEA
-
 .idea/
 *.iml
 
-#IntelliJ compiler output
-
+#IntelliJ Compiler Output
 out/
 
-#Build output
-
+#Build Output
 target/
 
-#Compiled Java files
-
+#Compiled Java Files
 *.class
 
 #Logs
-
 *.log
